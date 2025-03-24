@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Remove="Power.DI.csproj.DotSettings" />
+    </ItemGroup>
+
 </Project>
