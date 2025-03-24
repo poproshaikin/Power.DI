@@ -1,4 +1,4 @@
-namespace Power.NET.Core;
+namespace Power.DI;
 
 internal class SingletonServicesCollection : IServiceCollection
 {
