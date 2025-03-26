@@ -3,6 +3,6 @@ namespace Power.DI;
 public enum ServiceLifetime
 {
     Singleton = 1,
-    Transient,
-    Scoped
+    Scoped = 2,
+    Transient = 3
 }

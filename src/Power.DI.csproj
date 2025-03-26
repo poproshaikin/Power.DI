@@ -10,4 +10,8 @@
       <None Remove="Power.DI.csproj.DotSettings" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Singleton\" />
+    </ItemGroup>
+
 </Project>

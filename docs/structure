@@ -1,0 +1,12 @@
+IPowerServiceProvider:
+    facade class for all container, will save service registry,
+    resolve dependencies and contain singleton instances
+    
+    -----
+    
+    ServiceRegistry:
+        class containing metadata of all services
+        and factories for each service
+        
+    SingletonServicesContainer
+        container for singleton instances    
